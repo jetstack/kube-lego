@@ -2,9 +2,7 @@
 
 >  :warning:
 >
->  kube-lego is in maintenance mode only. There is no plan to support any new
->  features. The latest Kubernetes release that kube-lego officially supports
->  is **1.8**.  The officially endorsed successor is **[cert-manager](https://github.com/jetstack/cert-manager/)**.
+>  kube-lego is no longer maintained. The officially endorsed successor is **[cert-manager](https://github.com/jetstack/cert-manager/)**.
 >
 >  If you are a current user of kube-lego, you can find a migration guide [here](https://cert-manager.readthedocs.io/en/latest/tutorials/acme/migrating-from-kube-lego.html).
 >
